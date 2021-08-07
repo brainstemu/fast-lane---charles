@@ -1,0 +1,60 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAFBVVQAAAAAAUABQBQAAAABVVQUFAAAAABVRVQUAAAAAVRFVVVUAAABVFVVVVQAAAFVVVVVVAAAAVVVVVVUAAABVVVVVVQAAAFVVBQUAAAAAVVUFBQAAAABQAAAFAAAAAFBVVQAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile"
+    },
+    "tile2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBVBQAAAAAAVRFVAERERERVEVEABAAAQBVRVQAEAABAVVVVAAQAAEBVVVUABAAAQFVVVQBEREREVVVVAAAAAABQVVUAAAAAAFBVBQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile0"
+    },
+    "tile3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8P///wAAAAD/////DwAAAP////8PAAAA/x/x/w8AAAAfERHxDwAAAP8REfEPAAAA8P///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile1"
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDA1MDgwODA4MDgxMjA4MDgwODEzMDgwODA4MDgwODA4MDgwOTAyMDIwYzBhMDkwMjAyMGMwMjAyMDIwMjBkMDgwODAxMDkwZDAxMDEwMzAyMGQwMTBmMGYwZjBmMDEwODA4MDEwMTAxMDEwMzAyMDIwNDAxMGYwZjBmMGYwMTA4MDgwMTAxMGUwMTEwMTAxMDEwMDEwZjBmMGYwZjAxMDgwODAxMDMwMjA0MTAxMDEwMTAwMTBmMGYwZjBmMDEwODA4MDcwMjAyMDIwMjAyMDIwMjBiMDIwMjAyMDIwYTE1MDgwMTBmMGYwZjA5MDIwMjAyMGQxMDEwMTAxMDAxMDgwODAxMGYwZjBmMDExMDEwMTAwMTEwMTAxMDEwMDEwODA4MDEwZjBmMGYwMTBmMGYwZjAxMTAxMDEwMTAwMTA4MDgwNzAyMDIwMjBhMGYwZjBmMDcwMjAyMDIwMjBhMDgwODAxMDUxMDExMDEwZjBmMGYwMTA1MTAxMDExMDEwODA4MDEwZjBmMGYwMTBmMGYwZjAxMTAxMDEwMTAwMTA4MDgwMTBmMGYwZjAxMGYwZjBmMDExMDEwMTAxMDAxMDgwODAzMDIwMjAyMGIwMjAyMDIwYjAyMDIwMjAyMDQwODA2MDgwODA4MDgxNDA4MDgwODA4MDgwODA4MDgwODA4MjIyMjAyMjIwMjIyMjIyMjAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMjIyMjIwMDIwMDAwMDAwMDIyMjIyMDAyMDAyMDIyMDIyMjIyMjAwMjAwMjAyMjAyMjIyMjIwMDIwMDAwMDAwMDAwMDAwMDAyMjIwMjAwMDAyMjIyMjAwMjIyMDIyMjAyMjIyMjIwMDIyMjAyMjIwMjIyMjIyMDAyMDAwMDIyMDIwMDAwMjAwMjIyMDIyMjAyMjIyMjIwMDIyMjAyMjIwMjIyMjIyMDAyMjIwMjIyMDIyMjIyMjAwMjAwMDAwMDAwMDAwMDIwMjIyMjAyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.vehicle.roadVertical",
+            "sprites.vehicle.roadHorizontal",
+            "sprites.vehicle.roadTurn3",
+            "sprites.vehicle.roadTurn4",
+            "sprites.skillmap.islandTile0",
+            "sprites.skillmap.islandTile6",
+            "sprites.vehicle.roadIntersection2",
+            "sprites.skillmap.islandTile4",
+            "sprites.vehicle.roadTurn1",
+            "sprites.vehicle.roadIntersection4",
+            "sprites.vehicle.roadIntersection1",
+            "sprites.vehicle.roadIntersection3",
+            "sprites.vehicle.roadTurn2",
+            "sprites.dungeon.collectibleRedCrystal",
+            "sprites.skillmap.islandTile3",
+            "sprites.skillmap.islandTile1",
+            "sprites.skillmap.islandTile2",
+            "sprites.dungeon.buttonOrange",
+            "myTiles.tile3",
+            "myTiles.tile1",
+            "myTiles.tile2"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
